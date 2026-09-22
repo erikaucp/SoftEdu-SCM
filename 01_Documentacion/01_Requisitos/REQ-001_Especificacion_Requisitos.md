@@ -5,8 +5,8 @@
 - Código del CI: REQ-001
 - Nombre: Especificación de Requisitos
 - Proyecto: SoftEdu
-- Versión: 1.0
-- Estado: Aprobado para línea base inicial
+- Versión: 1.1
+- Estado: -En modificación por CR-001
 - Fecha: 09/09/2026
 - Responsable: Equipo SoftEdu
 
@@ -15,6 +15,8 @@
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial de la especificación de requisitos | Equipo SoftEdu |
+| 1.1 | 16/09/2026 | Se agrega el número de teléfono al estudiante según CR-001 | SthephaniGP |
+
 
 ## 1. Propósito
 

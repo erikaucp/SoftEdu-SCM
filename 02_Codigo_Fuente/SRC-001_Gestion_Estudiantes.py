@@ -7,24 +7,27 @@
 
 
 class Estudiante:
-    def __init__(self, identificacion, nombre_completo, correo_electronico):
+    def __init__(self, identificacion, nombre_completo, correo_electronico,telefono):
         self.identificacion = identificacion
         self.nombre_completo = nombre_completo
         self.correo_electronico = correo_electronico
+        self.telefono = telefono
 
     def mostrar_informacion(self):
         return {
             "identificacion": self.identificacion,
             "nombre_completo": self.nombre_completo,
-            "correo_electronico": self.correo_electronico
+            "correo_electronico": self.correo_electronico,
+            "telefono": self.telefono
         }
 
 
-def registrar_estudiante(identificacion, nombre_completo, correo_electronico):
+def registrar_estudiante(identificacion, nombre_completo, correo_electronico,telefono):
     estudiante = Estudiante(
         identificacion,
         nombre_completo,
-        correo_electronico
+        correo_electronico,
+        telefono
     )
 
     return estudiante
