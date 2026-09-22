@@ -5,8 +5,8 @@
 - Código del CI: TST-001
 - Nombre: Plan y Casos de Prueba
 - Proyecto: SoftEdu
-- Versión: 1.0
-- Estado: Aprobado para línea base inicial
+- Versión: 1.1
+- Estado: En modificación por CR-001
 - Fecha: 09/09/2026
 - Responsable: Equipo SoftEdu
 
@@ -15,6 +15,7 @@
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo SoftEdu |
+
 
 ## 1. Objetivo
 
@@ -43,12 +44,13 @@ Datos de entrada:
 - Identificación: 1001
 - Nombre completo: Ana Pérez
 - Correo electrónico: ana@email.com
+- Telefono: 3001234567
 
 Resultado esperado:
 
-El sistema crea correctamente el estudiante y almacena identificación, nombre completo y correo electrónico.
+El sistema crea correctamente el estudiante y almacena identificación, nombre completo, correo electrónico y teléfono.
 
-Estado esperado: Aprobado.
+Estado esperado: Pendiente de ejecución.
 
 ### CP-02 - Consultar estudiante existente
 
