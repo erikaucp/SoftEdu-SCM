@@ -86,6 +86,8 @@ La entidad Matricula contiene:
 
 ## 5. Trazabilidad de diseño
 
-Este diseño se deriva de los requisitos definidos en el elemento de configuración REQ-001 versión 1.0.
+Este diseño se deriva de los requisitos definidos en el elemento de configuración REQ-001 versión 1.1.
 
-Cualquier modificación que afecte la estructura de estudiantes, cursos o matrículas deberá evaluarse para determinar su impacto sobre este elemento de configuración.
+La versión 1.1 de DIS-001 se actualiza como consecuencia de la solicitud de cambio CR-001 - Agregar teléfono al estudiante.
+Cualquier modificación que afecte la estructura de estudiantes, cursos o matrículas deberá evaluarse para determinar su
+impacto sobre este elemento de configuración.
