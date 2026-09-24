@@ -56,7 +56,9 @@ TRA-001 v1.1 - Actualización de la trazabilidad
 - Código asociado: SRC-001 v1.1 - Gestión de Estudiantes
 - Caso de prueba asociado: TST-001 v1.1 / CP-01
 - Estado de trazabilidad: Completa
-- Estado del cambio: En implementación, pendiente de revisión
+- Estado del cambio: Aprobado e integrado por el main
+- Responsable de integración y aprobación: erikaucp
+- Commit de integración:7872add
   
 ### RF-02 - Consultar estudiante
 - Requisito: REQ-001
@@ -92,11 +94,15 @@ TST-001 v1.1 / CP-01
 ↓
 Commits asociados a CR-001
 ↓
-Pull Request pendiente
+Commits de corrección en el PR #2
 ↓
-Revisión y decisión pendiente
+Commits de implementación incluidos en el PR #3
 ↓
-Nueva línea base, si el cambio es aprobado e integrado
+PR #2 - Revisado y aprobado por erikaucp
+↓
+PR #3 - Revisado y aprobado por erikaucp
+↓
+Integrado en main - Commit 7872add
 
 ## 6. Registro de cambios trazables
 | Solicitud de cambio | Requisito afectado | Diseño afectado | Código afectado | Prueba afectada | Commit / PR | Estado |
@@ -111,8 +117,14 @@ La versión 1.0 representa la trazabilidad correspondiente a la configuración i
 La versión 1.1 registra el impacto y las relaciones generadas por la solicitud de cambio CR-001 - Agregar teléfono al
 estudiante.
 
-CR-001 se encuentra aprobada para implementación, pero todavía está pendiente de revisión e integración en la rama
-principal.
+CR-001 fue revisada y aprobada por erikaucp,  mediante el PR #2 y PR#3 e integrada en main.
+
+Esta actualización documental corrige las referencias que permanecían como pendientes y registra el estado final del
+cambio.
+
+La creación de la línea base 1.1 será realizada posteriormente por el owner.
+
+RF-03 y RF-04 conservan trazabilidad parcial porque sus funcionalidades todavía no están implementadas.
 
 Una vez que el cambio sea revisado y aprobado mediante Pull Request, esta matriz deberá actualizar el estado de CR-001,
 registrar la referencia al Pull Request y reflejar la nueva línea base que se establezca.
