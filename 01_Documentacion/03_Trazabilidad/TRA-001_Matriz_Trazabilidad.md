@@ -6,10 +6,10 @@
 - Nombre: Matriz de Trazabilidad
 - Proyecto: SoftEdu
 - Versión: 1.1
-- Estado: En modificación por CR-001
-- Fecha: 16/09/2026
+- Estado: Aprobado
+- Fecha: 23/09/2026
 - Responsable: Equipo SoftEdu
-- Responsable del cambio: SthephaniGP
+- Responsable del cambio: SthephaniGP, mediante PR#3
   
 ## Historial de versiones
 | Versión | Fecha | Descripción del cambio | Responsable |
