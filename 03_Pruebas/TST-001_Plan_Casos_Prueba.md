@@ -15,6 +15,7 @@
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo SoftEdu |
+| 1.1 | 16/09/2026 | Se actualiza CP-01 para validar el atributo teléfono según CR-001 | SthephaniGP |
 
 
 ## 1. Objetivo
@@ -63,7 +64,7 @@ Resultado esperado:
 
 El sistema muestra correctamente los datos del estudiante consultado.
 
-Estado esperado: Aprobado.
+Estado: Aprobado en la línea base v1.0; sin cambios por CR-001
 
 ### CP-03 - Registrar curso
 
@@ -110,5 +111,8 @@ Estado esperado: Aprobado.
 ## 5. Observaciones de configuración
 
 Este documento constituye el Elemento de Configuración TST-001.
+
+La versión 1.1 de TST-001 se actualiza como consecuencia de la solicitud de cambio CR-001 - Agregar teléfono al
+estudiante, con el propósito de validar el cambio incorporado en REQ-001 v1.1, DIS-001 v1.1 y SRC-001 v1.1.
 
 Los casos de prueba deberán actualizarse cuando una solicitud de cambio modifique los requisitos, el diseño o el código relacionado.
