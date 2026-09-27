@@ -4,8 +4,8 @@
 - Nombre: Especificación de Requisitos
 - Proyecto: SoftEdu
 - Versión: 1.1
-- Estado: En modificación por CR-001
-- Fecha: 16/09/2026
+- Estado: Aprobado
+- Fecha: 23/09/2026
 - Responsable: Equipo SoftEdu
 - Responsable del cambio: SthephaniGP
 ## Historial de versiones
@@ -53,3 +53,7 @@ administrativos.
 El sistema deberá mantener disponible la información almacenada durante su operación normal.
 ## 5. Observaciones de configuración
 Este documento constituye un Elemento de Configuración de Software identificado como REQ-001.
+
+Nota de actualización documental - 23/09/2026: se actualiza el estado del documento a Aprobado, conforme a la
+aprobación de CR-001 registrada por erikaucp en el PR #3, ya integrado en main. Se conserva la versión 1.1 y el
+contenido de los requisitos. Responsable de la actualización: SthephaniGP.
