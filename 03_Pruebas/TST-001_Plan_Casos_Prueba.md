@@ -6,8 +6,8 @@
 - Nombre: Plan y Casos de Prueba
 - Proyecto: SoftEdu
 - Versión: 1.1
-- Estado: En modificación por CR-001
-- Fecha: 09/09/2026
+- Estado: Aprobado
+- Fecha: 23/09/2026
 - Responsable: Equipo SoftEdu
 
 ## Historial de versiones
@@ -116,3 +116,6 @@ La versión 1.1 de TST-001 se actualiza como consecuencia de la solicitud de cam
 estudiante, con el propósito de validar el cambio incorporado en REQ-001 v1.1, DIS-001 v1.1 y SRC-001 v1.1.
 
 Los casos de prueba deberán actualizarse cuando una solicitud de cambio modifique los requisitos, el diseño o el código relacionado.
+
+Nota de actualización documental - 23/09/2026: se actualiza el estado de TST-001 a Aprobado, conforme a la aprobación de
+CR-001 registrada en el PR #2. Se conserva la versión 1.1 y los resultados de prueba registrados.
