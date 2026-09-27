@@ -6,8 +6,8 @@
 - Nombre: Diseño del Sistema
 - Proyecto: SoftEdu
 - Versión: 1.1
-- Estado: En modificación por CR-001
-- Fecha: 09/09/2026
+- Estado: Aprobado 
+- Fecha: 23/09/2026
 - Responsable: Equipo SoftEdu
 
 ## Historial de versiones
@@ -91,3 +91,6 @@ Este diseño se deriva de los requisitos definidos en el elemento de configuraci
 La versión 1.1 de DIS-001 se actualiza como consecuencia de la solicitud de cambio CR-001 - Agregar teléfono al estudiante.
 Cualquier modificación que afecte la estructura de estudiantes, cursos o matrículas deberá evaluarse para determinar su
 impacto sobre este elemento de configuración.
+
+Nota de actualización documental - 23/09/2026: se actualiza el estado de DIS-001 a Aprobado, conforme a la aprobación de
+CR-001 registrada en el PR #3.
