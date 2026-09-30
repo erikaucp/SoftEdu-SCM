@@ -1,9 +1,12 @@
 # SRC-001 - Gestión de Estudiantes
 # Proyecto: SoftEdu
-# Versión: 1.0
-# Estado: Aprobado para línea base inicial
-# Fecha: 09/09/2026
+# Versión: 1.1
+# Estado: Aprobado
+# Fecha: 23/09/2026
 # Responsable: Equipo SoftEdu
+# Nota de actualización documental - 23/09/2026:
+# Se actualiza el estado de SRC-001 a Aprobado, conforme a la aprobación de CR-001 registrada en el PR #3.
+# Se conserva la versión 1.1 y el código funcional.
 
 
 class Estudiante:
